@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying on Northeastern University (China). I will graduate in 2024.
 - 🌱 I’m currently learning distributed systems.
-- ⚡ My blog:[Henrik-yao](https://blog.csdn.net/qq_50216270).
+- ⚡ My blog: [Henrik-yao](https://blog.csdn.net/qq_50216270).
 - 📫 You can reach me by email: 10791894@qq.com.
 - 👀 Looking for remote internship.
 - 💬 Please feel free to contact me.
