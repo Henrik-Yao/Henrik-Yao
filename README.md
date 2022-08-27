@@ -17,7 +17,7 @@ test
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently studying on Northeastern University (China). I will graduate in 2024.
-- 🌱 I’m currently learning distributed systems.
+- 🌱 I’m currently learning service mesh.
 - ⚡ My blog: [Henrik-yao](https://blog.csdn.net/qq_50216270).
 - 📫 You can reach me by email: 10791894@qq.com.
 - 👀 Looking for remote internship.
